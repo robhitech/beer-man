@@ -1,7 +1,7 @@
 # beer
 
 ## Overview
-This is the Shane's beer test project
+The beer project
 
 ### backend
 
